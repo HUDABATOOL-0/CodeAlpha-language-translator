@@ -1,0 +1,4 @@
+deep-translator
+pyperclip
+gTTS
+pygame
