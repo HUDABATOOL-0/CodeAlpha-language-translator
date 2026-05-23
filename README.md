@@ -1,1 +1,1 @@
-# CodeAlpha-languge-translator
+# CodeAlpha-language-translator
